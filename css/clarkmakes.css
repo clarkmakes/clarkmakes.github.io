@@ -1,0 +1,16 @@
+.mc-h1 {
+    font-family: 'Fahkwang', serif;
+    font-size: 3rem;
+    color: #6E5D6F;
+    animation: fadeIn;
+    animation-duration: 1.5s;
+    animation-delay: 2.5s;
+}
+.mc-lead-1 {
+    font-family: "Libre Franklin";
+    font-size: 1.5rem;
+    color: #8A758A;
+    animation: fadeIn;
+    animation-duration: 1.75s;
+    animation-delay: 3.75s;
+}
